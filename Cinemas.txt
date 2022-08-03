@@ -1,3 +1,4 @@
 Procura por filme
 Procura por classificação indicativa 
+Procura por horário
 Perto de mim
