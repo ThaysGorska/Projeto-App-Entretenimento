@@ -1,0 +1,3 @@
+Conectar com Facebook
+Conectar com Gmail
+Cadastrar uma nova conta (Nome, Email, Senha, Localização)
