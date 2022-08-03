@@ -1,0 +1,5 @@
+Roupas
+Mercado
+Farmácia
+PetShop
+Adega
